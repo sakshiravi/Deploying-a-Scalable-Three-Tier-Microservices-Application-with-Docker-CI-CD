@@ -2,7 +2,7 @@
 
 ## Overview
 This project includes:
-- A **React.js frontend** to display user info (username, email, domain).
+- A **React.js frontend** to display user info (username, dob).
 - A **Node.js backend** connected to a **MySQL database**.
 
 All components are Dockerized for easy setup.
