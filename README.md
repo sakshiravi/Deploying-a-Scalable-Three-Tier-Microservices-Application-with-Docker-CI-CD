@@ -1,7 +1,3 @@
-Here's a simplified version of the `README.md` for your project:
-
----
-
 # Full Stack App with React, Node.js, and MySQL
 
 ## Overview
@@ -47,6 +43,3 @@ docker-compose up --build
 docker-compose down
 ```
 
----
-
-This README explains how to run and access the project in a simple way.
