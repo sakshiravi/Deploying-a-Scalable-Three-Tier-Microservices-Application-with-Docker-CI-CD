@@ -1,24 +1,25 @@
 # dockerized_react_app
-.
-├── backend               # Node.js application
 
-│   ├── Dockerfile        # Docker configuration for the backend
+backend               # Node.js application
 
-│   ├── index.js          # Main server file connecting to MySQL
+Dockerfile        # Docker configuration for the backend
 
-│   ├── package.json      # Node.js dependencies
+├── index.js          # Main server file connecting to MySQL
 
-│   └── database.sql      # SQL script to set up the database
+├── package.json      # Node.js dependencies
 
-├── frontend              # React.js application
+├──  database.sql      # SQL script to set up the database
 
-│   ├── Dockerfile        # Docker configuration for the frontend
+frontend              # React.js application
 
-│   ├── src
-│   │   └── App.js        # Main React component
+├── Dockerfile        # Docker configuration for the frontend
 
-│   └── package.json      # React dependencies
+├── src
 
-├── docker-compose.yml    # Compose file to set up both frontend, backend, and MySQL
+└── App.js        # Main React component
+
+└── package.json      # React dependencies
+
+docker-compose.yml    # Compose file to set up both frontend, backend, and MySQL
 
 
