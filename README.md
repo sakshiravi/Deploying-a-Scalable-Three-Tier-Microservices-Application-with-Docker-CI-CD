@@ -1,4 +1,4 @@
-# Full Stack App with React, Node.js, and MySQL
+# Deploying a Scalable Three-Tier Microservices Application with Docker & CI/CD
 
 ## Overview
 This project includes:
