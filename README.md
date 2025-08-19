@@ -1,4 +1,4 @@
-### DataFlow Portal: A Containerized Three-Tier Web Application
+### Data Portal: A Containerized Three-Tier Web Application
 
 ## Overview
 This project includes:
